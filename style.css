@@ -1,0 +1,12 @@
+.clock {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    font-size: 48px;
+    text-align: center;
+    /* margin-top: 20%; */
+    background-color: azure;
+    /* border-radius: 50%; */
+    box-shadow: 10px 10px 10px rgb(13, 227, 230);
+    height: 100px;
+    width: 300px;
+}
